@@ -1,0 +1,10 @@
+C:\Users\petra\source\repos\ObjednavkovySys\ObjednavkovySys\bin\Debug\ObjednavkovySys.exe.config
+C:\Users\petra\source\repos\ObjednavkovySys\ObjednavkovySys\bin\Debug\ObjednavkovySys.exe
+C:\Users\petra\source\repos\ObjednavkovySys\ObjednavkovySys\bin\Debug\ObjednavkovySys.pdb
+C:\Users\petra\source\repos\ObjednavkovySys\ObjednavkovySys\obj\Debug\ObjednavkovySys.csprojAssemblyReference.cache
+C:\Users\petra\source\repos\ObjednavkovySys\ObjednavkovySys\obj\Debug\ObjednavkovySys.Form1.resources
+C:\Users\petra\source\repos\ObjednavkovySys\ObjednavkovySys\obj\Debug\ObjednavkovySys.Properties.Resources.resources
+C:\Users\petra\source\repos\ObjednavkovySys\ObjednavkovySys\obj\Debug\ObjednavkovySys.csproj.GenerateResource.cache
+C:\Users\petra\source\repos\ObjednavkovySys\ObjednavkovySys\obj\Debug\ObjednavkovySys.csproj.CoreCompileInputs.cache
+C:\Users\petra\source\repos\ObjednavkovySys\ObjednavkovySys\obj\Debug\ObjednavkovySys.exe
+C:\Users\petra\source\repos\ObjednavkovySys\ObjednavkovySys\obj\Debug\ObjednavkovySys.pdb
